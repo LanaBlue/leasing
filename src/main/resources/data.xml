@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <colocations>
+        <colo name="test">
+            <data>
+                <information name="sberLeasing" value ="СберЛизинг" />
+                <information name="moscow" value ="Москва" />
+                <information name="audi" value ="Audi" />
+            </data>
+        </colo>
+    </colocations>
+</configuration>
